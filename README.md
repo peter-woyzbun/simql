@@ -1,0 +1,2 @@
+# simql
+Simple SQL
